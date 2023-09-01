@@ -28,8 +28,4 @@ int main()
     printf("Rain: %d\n", isRaining);
 
     return 0; 
-        
-        
-    return 0;
-    
 }

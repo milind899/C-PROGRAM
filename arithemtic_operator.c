@@ -12,6 +12,9 @@ int main()
     // ++(increment)
     // --(decrement)
 
+    // x+=1 == x = x + 1
+    // x-=1 == x = x - 1
+
     int x = 8;
     int y = 6;
     float z = x / (float)y; //using (float) to convert y from int to float variable
